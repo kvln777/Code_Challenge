@@ -1,0 +1,946 @@
+order_id,customer_id,product_id,quantity,price,order_date,name,username,email,lat,lng
+6812,2,36,3,76.58,2022-06-01,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+6396,2,8,9,45.01,2022-06-04,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+8794,2,9,4,38.7,2022-06-05,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+4394,2,32,1,55.19,2022-06-08,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+3888,2,8,3,11.49,2022-06-13,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+6153,2,24,10,48.72,2022-06-23,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+6918,2,19,2,24.89,2022-06-27,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+9003,2,26,2,68.11,2022-06-28,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+8077,2,20,8,58.43,2022-06-29,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+7946,2,35,7,51.54,2022-07-03,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+7697,2,36,8,51.85,2022-07-08,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+7860,2,13,7,20.56,2022-07-08,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+8502,2,22,10,60.85,2022-07-08,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+4256,2,4,7,65.06,2022-07-09,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+8403,2,50,1,46.98,2022-07-15,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+8030,2,13,2,64.93,2022-07-21,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+8712,2,50,3,76.8,2022-07-22,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+9864,2,25,5,93.53,2022-07-24,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+3608,2,8,8,84.48,2022-07-25,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+2781,2,14,7,75.54,2022-07-27,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+8368,2,5,2,56.93,2022-08-03,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+2722,2,41,7,87.72,2022-08-03,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+8097,2,11,7,33.33,2022-08-05,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+1199,2,30,6,86.36,2022-08-06,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+9420,2,1,4,11.07,2022-08-08,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+2209,2,15,7,26.27,2022-08-19,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+3073,2,28,7,33.16,2022-08-21,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+3471,2,11,1,95.94,2022-08-23,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+8312,2,27,9,36.15,2022-08-24,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+1671,2,32,8,82.63,2022-08-25,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+2508,2,38,6,29.28,2022-08-29,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+7492,2,30,6,80.75,2022-08-30,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+4544,2,44,8,18.89,2022-09-01,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+1124,2,20,1,71.7,2022-09-04,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+3405,2,30,5,87.77,2022-09-05,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+2204,2,46,7,96.92,2022-09-10,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+3438,2,37,7,37.78,2022-09-10,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+1827,2,5,1,62.54,2022-09-11,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+2734,2,17,8,77.01,2022-09-12,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+7745,2,4,10,34.82,2022-09-14,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+6048,2,50,8,37.62,2022-09-16,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+3908,2,1,5,32.64,2022-09-16,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+2254,2,37,7,72.7,2022-09-19,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+5720,2,36,6,35.57,2022-09-20,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+6903,2,36,5,45.92,2022-09-28,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+6693,2,45,1,46.72,2022-10-02,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+4285,2,24,5,91.56,2022-10-25,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+9256,2,38,9,70.36,2022-10-30,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+7120,2,47,6,28.92,2022-11-02,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+8802,2,43,4,64.32,2022-11-04,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+3037,2,35,5,28.87,2022-11-05,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+8326,2,26,7,17.03,2022-11-14,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+9387,2,46,4,39.21,2022-11-17,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+9383,2,29,7,49.28,2022-11-25,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+3695,2,50,3,32.78,2022-11-29,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+9307,2,3,10,81.04,2022-12-01,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+5348,2,11,2,25.1,2022-12-07,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+7123,2,12,4,72.37,2022-12-18,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+9740,2,13,2,15.14,2022-12-21,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+6602,2,48,10,77.4,2022-12-25,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+8118,2,36,8,98.15,2022-12-28,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+1609,2,1,3,15.54,2022-12-29,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+9586,2,26,3,66.24,2022-12-30,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+4490,2,25,7,75.96,2023-01-01,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+9833,2,34,10,11.92,2023-01-06,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+1010,2,1,6,31.79,2023-01-18,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+2016,2,29,2,91.16,2023-01-19,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+3847,2,29,5,52.7,2023-01-22,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+3607,2,7,6,22.67,2023-01-31,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+8182,2,6,9,60.87,2023-02-03,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+2870,2,1,6,53.66,2023-02-06,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+4450,2,11,5,51.7,2023-02-22,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+1949,2,36,3,20.1,2023-02-22,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+6495,2,29,5,81.89,2023-02-26,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+4503,2,14,9,61.34,2023-02-26,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+2867,2,22,4,76.39,2023-02-28,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+8028,2,46,6,46.24,2023-03-02,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+1835,2,33,3,73.75,2023-03-08,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+6999,2,22,10,67.07,2023-03-20,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+8702,2,27,2,74.89,2023-03-23,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+6285,2,15,2,76.95,2023-03-26,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+8668,2,40,4,16.26,2023-03-27,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+5973,2,25,6,52.79,2023-03-30,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+6751,2,32,2,46.16,2023-04-08,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+6906,2,37,7,47.08,2023-04-09,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+9071,2,36,9,33.97,2023-04-11,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+6184,2,48,6,25.39,2023-04-20,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+5093,2,39,6,89.21,2023-04-21,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+1152,2,17,4,69.07,2023-04-24,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+7036,2,2,7,86.05,2023-04-27,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+5996,2,11,9,99.78,2023-05-05,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+9779,2,12,7,63.21,2023-05-08,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+4444,2,50,10,32.02,2023-05-09,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+7025,2,2,5,14.21,2023-05-12,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+9365,2,40,2,72.42,2023-05-12,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+1068,2,38,4,57.68,2023-05-17,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+1376,2,42,5,65.77,2023-05-23,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+3350,2,11,2,11.83,2023-05-23,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+3585,2,20,5,30.16,2023-05-25,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+8072,2,26,9,46.76,2023-05-25,Ervin Howell,Antonette,Shanna@melissa.tv,-43.9509,-34.4618
+2190,5,5,1,89.76,2022-06-01,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+1973,5,27,9,71.51,2022-06-18,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+5215,5,10,5,64.85,2022-06-20,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+2334,5,40,3,35.6,2022-06-21,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+1131,5,28,10,87.52,2022-07-02,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+7855,5,42,7,57.17,2022-07-05,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+4559,5,26,2,83.56,2022-07-09,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+7843,5,45,10,70.21,2022-07-09,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+7981,5,15,5,75.46,2022-07-19,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+1733,5,8,9,52.73,2022-07-28,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+3518,5,13,6,56.84,2022-08-15,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+6096,5,31,7,63.27,2022-08-21,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+1696,5,5,4,34.65,2022-08-23,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+7004,5,1,8,12.96,2022-08-29,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+5307,5,3,7,51.98,2022-09-01,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+1549,5,14,9,71.57,2022-09-03,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+1915,5,26,10,34.71,2022-09-07,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+7785,5,33,7,49.97,2022-09-11,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+1127,5,7,2,76.68,2022-09-18,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+2684,5,41,3,20.41,2022-09-19,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+3237,5,18,6,63.38,2022-09-22,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+4745,5,19,9,23.65,2022-09-26,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+7893,5,15,4,85.43,2022-09-26,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+1030,5,2,5,91.05,2022-09-27,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+1790,5,30,3,71.28,2022-09-28,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+7267,5,45,2,61.82,2022-10-02,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+2295,5,20,6,97.67,2022-10-04,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+3710,5,21,3,79.49,2022-10-09,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+2607,5,47,7,60.1,2022-10-11,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+6224,5,28,1,67.03,2022-10-11,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+2516,5,5,5,44.95,2022-10-12,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+3862,5,50,9,16.12,2022-10-14,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+9085,5,15,1,66.31,2022-10-15,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+6588,5,26,1,15.87,2022-10-23,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+3524,5,48,1,60.63,2022-10-28,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+2045,5,17,4,81.85,2022-11-01,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+8315,5,22,4,55.19,2022-11-05,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+8879,5,23,3,14.41,2022-11-13,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+8528,5,20,9,68.97,2022-11-13,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+5728,5,25,6,70.41,2022-11-15,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+3867,5,41,1,39.51,2022-11-18,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+7162,5,26,5,25.16,2022-11-20,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+6518,5,10,3,84.88,2022-11-21,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+2067,5,20,9,94.1,2022-11-24,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+1524,5,25,3,85.19,2022-11-26,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+3448,5,35,3,75.49,2022-11-26,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+8523,5,20,7,72.37,2022-12-05,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+1547,5,32,8,29.98,2022-12-06,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+7118,5,25,1,76.14,2022-12-06,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+4683,5,33,7,58.24,2022-12-07,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+3602,5,26,10,50.25,2022-12-08,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+7262,5,35,4,21.27,2022-12-11,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+5862,5,14,2,29.35,2022-12-12,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+1896,5,42,4,40.66,2022-12-12,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+1013,5,30,8,47.12,2022-12-16,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+5199,5,41,8,72.3,2022-12-24,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+8598,5,36,7,75.37,2022-12-30,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+2401,5,19,7,20.86,2023-01-01,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+3805,5,13,8,12.43,2023-01-04,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+1589,5,10,1,96.94,2023-01-05,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+4702,5,4,6,51.82,2023-01-09,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+8265,5,36,6,92.18,2023-01-13,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+5870,5,41,8,29.89,2023-01-24,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+6929,5,27,5,95.59,2023-01-24,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+8808,5,19,7,44.27,2023-01-29,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+3896,5,10,8,93.34,2023-02-05,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+8310,5,37,10,79.35,2023-02-07,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+3994,5,48,6,63.09,2023-02-07,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+4935,5,39,5,50.66,2023-02-09,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+9233,5,24,8,42.94,2023-02-10,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+6946,5,47,9,53.75,2023-02-11,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+6998,5,23,4,84.19,2023-02-15,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+3738,5,21,3,44.33,2023-02-21,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+8154,5,18,7,61.47,2023-02-23,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+7088,5,39,8,36.11,2023-02-24,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+7968,5,47,1,21.08,2023-02-25,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+5200,5,50,6,82.12,2023-02-28,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+6105,5,47,2,44.45,2023-03-07,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+8830,5,40,7,89.28,2023-03-08,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+4075,5,19,4,71.17,2023-03-20,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+3139,5,1,6,37.99,2023-03-27,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+3214,5,34,8,17.92,2023-04-03,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+6090,5,44,2,42.54,2023-04-13,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+2038,5,16,3,32.14,2023-04-14,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+9557,5,14,7,67.62,2023-04-15,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+1105,5,29,10,41.5,2023-04-19,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+4339,5,12,10,83.4,2023-04-21,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+7506,5,22,2,61.08,2023-04-23,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+1749,5,23,2,68.51,2023-04-30,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+5104,5,4,1,70.7,2023-05-02,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+9989,5,49,6,16.67,2023-05-02,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+8426,5,35,6,33.38,2023-05-18,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+6131,5,24,5,58.6,2023-05-22,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+3569,5,47,9,19.35,2023-05-25,Chelsey Dietrich,Kamren,Lucio_Hettinger@annie.ca,-31.8129,62.5342
+5425,1,10,2,67.07,2022-06-01,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+2651,1,17,8,91.21,2022-06-04,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+6713,1,36,7,52.44,2022-06-05,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+5045,1,25,2,14.48,2022-06-12,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+4018,1,20,4,36.85,2022-06-18,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+3525,1,34,5,35.22,2022-06-21,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+9873,1,45,6,76.82,2022-06-23,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+2666,1,37,7,98.08,2022-06-28,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+8366,1,31,9,32.02,2022-07-01,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+2114,1,47,8,25.77,2022-07-02,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+7234,1,17,4,68.7,2022-07-08,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+8994,1,41,2,94.41,2022-07-13,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+8766,1,21,9,83.49,2022-08-01,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+5580,1,49,8,82.69,2022-08-05,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+5940,1,25,10,33.56,2022-08-11,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+4998,1,26,3,17.55,2022-08-26,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+3390,1,3,9,28.51,2022-08-30,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+2390,1,41,3,80.94,2022-09-03,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+4241,1,8,5,60.46,2022-09-03,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+8805,1,45,8,61.76,2022-09-12,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+8884,1,5,7,61.65,2022-09-19,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+7717,1,2,9,16.51,2022-10-02,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+9597,1,33,1,78.88,2022-10-04,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+9726,1,6,6,50.54,2022-10-06,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+5163,1,41,4,30.44,2022-10-10,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+8975,1,26,3,13.34,2022-10-11,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+6589,1,4,7,85.52,2022-10-17,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+2337,1,16,7,71.87,2022-10-24,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+3553,1,4,7,94.45,2022-10-28,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+3853,1,22,7,87.79,2022-11-16,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+3352,1,35,9,15.08,2022-11-19,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+5220,1,48,7,49.9,2022-11-19,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+4990,1,43,2,14.78,2022-11-29,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+1596,1,8,5,87.77,2022-12-09,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+8043,1,44,7,25.36,2022-12-22,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+9720,1,32,3,18.8,2022-12-27,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+9762,1,47,8,17.26,2023-01-12,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+7894,1,49,8,89.78,2023-01-14,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+8221,1,2,4,83.49,2023-01-15,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+8176,1,44,6,33.88,2023-01-16,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+5566,1,23,3,83.81,2023-01-21,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+6221,1,49,6,29.66,2023-01-23,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+6219,1,23,10,78.93,2023-02-02,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+2673,1,43,2,24.17,2023-02-04,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+5481,1,9,1,94.97,2023-02-06,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+8597,1,50,7,97.34,2023-02-08,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+3916,1,42,6,35.53,2023-02-10,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+7832,1,47,6,47.02,2023-02-16,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+4176,1,12,4,20.63,2023-02-18,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+4440,1,35,1,24.37,2023-03-01,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+3567,1,15,8,26.5,2023-03-03,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+2669,1,38,4,32.73,2023-03-06,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+5337,1,31,3,43.55,2023-03-12,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+9739,1,5,3,64.84,2023-03-14,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+4245,1,23,7,66.64,2023-03-16,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+2816,1,4,7,21.88,2023-03-22,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+9518,1,13,6,20.25,2023-03-24,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+1546,1,11,7,10.4,2023-03-25,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+8507,1,35,4,35.8,2023-03-26,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+3301,1,20,8,69.76,2023-04-07,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+5884,1,2,7,26.88,2023-04-12,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+2173,1,2,9,55.69,2023-04-13,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+1976,1,27,3,86.04,2023-04-14,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+2647,1,14,9,63.16,2023-04-15,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+7546,1,46,2,98.9,2023-04-15,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+7422,1,50,1,27.68,2023-04-15,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+1036,1,37,2,81.19,2023-04-21,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+3578,1,10,3,73.61,2023-04-24,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+3095,1,35,10,36.81,2023-04-26,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+6340,1,46,8,95.13,2023-04-26,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+3361,1,26,8,82.75,2023-05-04,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+5441,1,26,5,73.33,2023-05-07,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+7605,1,46,10,49.87,2023-05-12,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+7231,1,38,7,95.54,2023-05-31,Leanne Graham,Bret,Sincere@april.biz,-37.3159,81.1496
+2718,7,23,6,24.51,2022-06-01,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+1285,7,27,10,76.87,2022-06-08,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+3317,7,44,5,91.11,2022-06-12,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+6947,7,20,3,65.0,2022-06-18,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+6862,7,33,2,39.98,2022-06-20,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+3331,7,39,6,66.23,2022-06-28,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+2934,7,1,5,47.03,2022-06-30,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+6596,7,10,10,42.08,2022-07-03,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+8404,7,25,9,41.94,2022-07-09,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+9054,7,22,7,72.44,2022-07-14,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+6294,7,48,10,98.58,2022-07-19,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+7972,7,30,10,83.7,2022-07-24,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+1722,7,16,5,68.76,2022-07-28,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+3195,7,4,10,21.62,2022-07-28,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+1478,7,5,5,15.19,2022-08-01,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+9728,7,45,1,14.47,2022-08-03,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+5979,7,47,5,87.53,2022-08-04,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+4337,7,19,6,53.86,2022-08-05,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+2997,7,49,1,39.54,2022-08-09,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+8774,7,6,3,19.09,2022-08-10,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+1102,7,11,3,18.41,2022-08-12,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+4439,7,46,7,16.6,2022-08-18,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+1942,7,20,5,85.26,2022-08-22,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+9525,7,31,4,52.6,2022-08-28,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+7044,7,22,10,72.81,2022-08-28,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+3692,7,34,8,66.51,2022-09-15,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+9992,7,42,2,95.94,2022-09-16,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+3745,7,48,3,19.08,2022-09-17,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+9219,7,45,4,13.08,2022-09-23,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+2159,7,38,5,29.48,2022-09-28,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+9706,7,11,3,11.78,2022-10-05,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+1804,7,40,9,80.34,2022-10-08,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+5447,7,47,7,60.37,2022-10-09,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+7751,7,43,1,77.93,2022-10-10,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+6314,7,34,10,81.36,2022-10-11,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+8816,7,9,3,86.81,2022-10-19,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+9969,7,29,6,59.17,2022-10-19,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+8851,7,41,10,51.06,2022-10-20,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+3226,7,50,8,51.46,2022-11-03,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+5427,7,17,10,23.25,2022-11-05,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+3598,7,4,6,39.0,2022-11-10,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+3975,7,1,8,99.77,2022-11-10,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+1823,7,27,6,78.62,2022-11-12,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+5915,7,15,7,63.44,2022-12-06,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+8378,7,24,8,72.65,2022-12-07,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+3294,7,9,7,61.37,2022-12-13,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+3537,7,5,4,79.72,2022-12-13,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+3026,7,26,6,33.45,2022-12-17,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+5336,7,30,9,77.52,2022-12-20,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+8473,7,44,6,69.53,2022-12-26,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+4496,7,2,7,59.37,2022-12-27,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+8947,7,7,2,11.97,2022-12-30,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+7758,7,36,10,24.77,2023-01-04,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+6907,7,30,8,82.51,2023-01-12,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+1870,7,48,2,22.96,2023-01-16,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+5323,7,30,10,56.88,2023-01-17,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+2455,7,10,3,20.23,2023-01-26,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+2239,7,12,3,69.08,2023-01-26,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+6309,7,38,2,43.18,2023-01-28,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+1744,7,50,1,20.19,2023-01-31,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+8288,7,49,9,58.43,2023-02-01,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+6593,7,38,4,33.23,2023-02-12,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+4581,7,16,3,36.09,2023-02-14,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+5171,7,32,1,87.2,2023-02-18,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+9244,7,26,7,48.62,2023-02-20,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+8120,7,46,8,75.33,2023-02-22,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+5346,7,15,4,72.22,2023-02-24,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+1067,7,20,1,93.58,2023-02-24,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+9881,7,41,7,81.27,2023-02-25,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+1329,7,47,3,97.95,2023-03-05,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+2133,7,2,2,25.02,2023-03-14,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+8137,7,21,5,46.17,2023-03-20,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+9223,7,28,7,99.15,2023-03-28,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+4705,7,23,3,21.73,2023-04-04,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+3368,7,27,7,24.62,2023-04-07,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+1497,7,22,5,24.7,2023-04-10,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+7604,7,26,6,59.42,2023-04-15,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+5313,7,11,6,38.73,2023-04-17,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+4010,7,40,1,30.73,2023-04-22,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+7709,7,43,10,30.62,2023-04-23,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+8297,7,27,6,43.01,2023-04-28,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+5530,7,3,5,89.23,2023-05-03,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+4331,7,49,2,70.39,2023-05-09,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+9900,7,19,7,54.29,2023-05-15,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+7738,7,42,6,83.22,2023-05-15,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+3474,7,45,5,70.26,2023-05-16,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+3764,7,3,10,16.06,2023-05-16,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+1678,7,39,5,22.56,2023-05-18,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+4724,7,20,9,34.17,2023-05-21,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+5640,7,7,3,34.44,2023-05-27,Kurtis Weissnat,Elwyn.Skiles,Telly.Hoeger@billy.biz,24.8918,21.8984
+3898,4,7,6,14.74,2022-06-03,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+8050,4,17,8,50.25,2022-06-03,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+9298,4,25,7,46.75,2022-06-07,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+8395,4,16,7,46.09,2022-06-10,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+4918,4,20,7,76.76,2022-06-12,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+1133,4,2,5,40.75,2022-06-12,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+9631,4,5,9,76.17,2022-06-13,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+9526,4,28,8,47.4,2022-06-15,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+2644,4,21,6,28.87,2022-06-16,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+8012,4,26,5,31.83,2022-06-22,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+8493,4,40,7,55.77,2022-06-28,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+5201,4,30,8,72.84,2022-07-02,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+1435,4,27,9,97.07,2022-07-09,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+1579,4,25,3,69.12,2022-08-01,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+9363,4,17,9,46.37,2022-08-04,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+1336,4,32,4,50.06,2022-08-13,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+9787,4,37,3,53.02,2022-08-14,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+6321,4,36,8,74.19,2022-08-16,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+2657,4,48,9,60.19,2022-08-17,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+9415,4,26,5,57.87,2022-08-17,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+2856,4,41,1,28.98,2022-08-20,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+5967,4,24,10,88.72,2022-08-25,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+3940,4,25,1,66.67,2022-08-25,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+7862,4,5,8,56.8,2022-08-29,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+3777,4,13,7,62.31,2022-09-02,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+3071,4,13,8,74.99,2022-09-09,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+1495,4,48,9,43.19,2022-09-21,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+8344,4,12,8,75.35,2022-09-30,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+1007,4,41,5,63.34,2022-10-08,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+8163,4,46,6,43.49,2022-10-12,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+7238,4,20,2,48.15,2022-10-12,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+5912,4,12,6,26.95,2022-10-21,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+2741,4,11,7,71.26,2022-10-23,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+3250,4,23,9,61.12,2022-10-24,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+5841,4,37,1,85.17,2022-10-27,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+3357,4,2,2,11.41,2022-11-04,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+2365,4,48,7,10.29,2022-11-07,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+2281,4,29,7,40.27,2022-11-17,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+3620,4,19,7,63.61,2022-11-23,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+6938,4,18,7,62.96,2022-11-27,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+5063,4,37,2,87.41,2022-11-28,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+6765,4,44,3,91.01,2022-12-03,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+5071,4,39,6,14.81,2022-12-04,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+8515,4,41,7,47.02,2022-12-05,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+2142,4,38,9,18.17,2022-12-10,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+9528,4,16,7,25.12,2022-12-12,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+1565,4,23,8,47.2,2022-12-18,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+4273,4,35,10,69.5,2022-12-18,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+9470,4,31,1,33.41,2022-12-19,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+2219,4,45,7,58.15,2022-12-23,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+7427,4,1,8,29.36,2022-12-25,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+2993,4,46,8,11.6,2022-12-31,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+5778,4,40,3,22.61,2023-01-01,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+2768,4,50,8,44.74,2023-01-05,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+9573,4,37,9,53.0,2023-01-09,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+6275,4,39,4,97.74,2023-01-27,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+1472,4,37,2,93.61,2023-01-29,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+5789,4,32,6,23.16,2023-01-29,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+1120,4,14,1,29.03,2023-02-03,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+3326,4,47,3,43.85,2023-02-04,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+2549,4,12,7,57.59,2023-02-06,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+4001,4,37,1,33.98,2023-03-01,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+9121,4,21,7,12.71,2023-03-05,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+3760,4,30,4,84.08,2023-03-09,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+6282,4,36,8,74.67,2023-03-15,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+2321,4,8,3,28.01,2023-03-16,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+3419,4,32,9,22.65,2023-03-20,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+9086,4,5,4,12.0,2023-03-20,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+2036,4,42,9,32.51,2023-03-23,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+9496,4,40,1,82.44,2023-03-25,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+1849,4,39,10,92.11,2023-03-26,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+3500,4,22,3,44.07,2023-04-04,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+7801,4,22,10,83.85,2023-04-09,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+5919,4,1,4,26.3,2023-04-10,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+6520,4,4,5,62.16,2023-04-15,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+7151,4,2,7,50.46,2023-04-20,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+9204,4,39,2,82.44,2023-04-21,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+5100,4,41,4,15.11,2023-04-24,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+7083,4,37,6,71.27,2023-04-29,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+2278,4,10,4,68.22,2023-05-06,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+7396,4,36,4,11.7,2023-05-08,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+7831,4,36,1,91.24,2023-05-10,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+8477,4,5,6,15.85,2023-05-12,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+2879,4,15,3,60.53,2023-05-12,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+2255,4,23,3,84.96,2023-05-22,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+8309,4,48,2,97.02,2023-05-22,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+2507,4,33,6,95.14,2023-05-24,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+3111,4,24,6,84.74,2023-05-28,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+9890,4,44,2,96.48,2023-05-29,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+8138,4,12,7,47.47,2023-05-30,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+3455,4,44,4,77.0,2023-05-31,Patricia Lebsack,Karianne,Julianne.OConner@kory.org,29.4572,-164.2990
+2873,8,45,1,27.91,2022-06-03,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+3001,8,7,9,64.2,2022-06-11,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+2773,8,13,4,82.12,2022-06-15,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+6218,8,21,5,85.91,2022-06-24,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+2538,8,14,5,73.84,2022-06-24,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+6479,8,2,9,97.11,2022-06-27,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+7760,8,38,6,15.15,2022-06-29,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+3185,8,16,10,98.16,2022-07-07,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5147,8,10,10,67.05,2022-07-08,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+3688,8,49,6,31.1,2022-07-15,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5994,8,26,1,25.63,2022-07-17,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5735,8,49,1,63.38,2022-07-19,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+8894,8,42,8,85.17,2022-07-22,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5769,8,45,1,40.75,2022-07-22,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+7622,8,45,3,50.85,2022-07-25,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+8155,8,19,10,38.82,2022-08-10,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5221,8,40,5,65.94,2022-08-13,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+4708,8,23,1,44.27,2022-08-16,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+3817,8,9,3,97.7,2022-08-23,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+4270,8,30,4,29.46,2022-09-01,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+6332,8,31,7,62.15,2022-09-10,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+2739,8,18,5,63.47,2022-09-17,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+3228,8,25,4,81.38,2022-09-20,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+8146,8,41,4,26.31,2022-09-23,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+9611,8,41,1,28.45,2022-10-01,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+9222,8,2,2,69.46,2022-10-02,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+9213,8,2,9,45.0,2022-10-04,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5910,8,32,10,77.0,2022-10-05,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+9294,8,20,4,54.82,2022-10-05,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5105,8,11,1,61.08,2022-10-05,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+7587,8,34,2,28.72,2022-10-10,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+8917,8,24,9,62.62,2022-10-13,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+7520,8,18,1,84.54,2022-10-13,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+1509,8,29,9,61.11,2022-10-18,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+4237,8,10,5,47.66,2022-10-19,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+2857,8,46,4,19.93,2022-10-27,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+7370,8,23,3,31.98,2022-11-01,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+6516,8,23,9,66.24,2022-11-08,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+7964,8,28,6,22.27,2022-11-09,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5854,8,29,1,21.02,2022-11-10,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+2441,8,35,5,37.77,2022-11-11,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+7105,8,5,5,47.89,2022-11-15,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+2988,8,23,7,99.56,2022-11-16,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+7224,8,45,10,50.83,2022-11-22,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+3693,8,26,3,31.59,2022-11-25,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5800,8,33,3,42.18,2022-11-26,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+7574,8,19,9,73.08,2022-11-30,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5174,8,10,2,96.08,2022-11-30,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5249,8,38,9,10.07,2022-12-02,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5700,8,37,1,91.96,2022-12-04,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5094,8,15,10,28.65,2022-12-06,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+6560,8,24,8,58.9,2022-12-11,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+9428,8,27,8,32.24,2022-12-13,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+7350,8,17,1,34.59,2022-12-13,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+8651,8,42,5,69.69,2022-12-17,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+6386,8,9,6,11.31,2022-12-20,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+7349,8,21,4,35.97,2022-12-27,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+7847,8,2,9,10.77,2022-12-28,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+7522,8,26,4,90.57,2022-12-30,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+3513,8,17,2,88.4,2023-01-01,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+9321,8,32,1,89.83,2023-01-03,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5192,8,33,2,92.9,2023-01-05,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+2095,8,39,7,46.14,2023-01-05,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+9588,8,3,4,55.38,2023-01-07,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+9505,8,44,6,60.59,2023-01-13,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+4938,8,18,5,71.48,2023-01-16,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+9385,8,14,10,34.77,2023-01-20,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+2039,8,33,10,21.11,2023-01-21,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+1967,8,16,3,42.74,2023-01-24,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+1564,8,2,8,76.47,2023-01-25,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+9620,8,8,5,15.53,2023-01-26,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5746,8,5,2,57.97,2023-01-29,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+1651,8,18,7,95.79,2023-01-30,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+9923,8,5,2,78.18,2023-02-01,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+4635,8,2,2,73.86,2023-02-08,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+9065,8,1,2,29.32,2023-02-15,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+9634,8,44,8,19.19,2023-02-15,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+8051,8,20,9,57.28,2023-02-17,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5264,8,8,9,82.3,2023-02-21,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+7432,8,3,7,43.37,2023-02-23,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+9330,8,27,10,62.0,2023-03-03,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+3986,8,1,7,81.4,2023-03-06,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+4968,8,22,9,71.77,2023-03-07,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+6302,8,7,4,53.85,2023-03-08,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+6228,8,13,7,36.52,2023-03-08,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5857,8,4,5,53.81,2023-03-13,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+2467,8,3,2,40.79,2023-03-16,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+2158,8,11,9,94.08,2023-03-26,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+3864,8,6,7,47.24,2023-03-31,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+4769,8,20,10,99.15,2023-04-01,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+3654,8,40,5,93.4,2023-04-16,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+8241,8,4,6,88.53,2023-04-20,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5072,8,17,2,27.57,2023-04-23,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+7856,8,17,6,88.09,2023-04-23,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+3121,8,33,8,25.55,2023-04-23,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+3691,8,49,10,20.43,2023-04-24,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+3937,8,12,7,77.75,2023-05-04,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+7375,8,22,2,30.0,2023-05-06,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+6632,8,18,2,65.82,2023-05-09,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+3141,8,32,9,75.7,2023-05-15,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+7936,8,49,2,75.89,2023-05-16,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+9980,8,41,2,47.0,2023-05-18,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+2011,8,22,3,49.88,2023-05-26,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+5332,8,20,1,31.5,2023-05-31,Nicholas Runolfsdottir V,Maxime_Nienow,Sherwood@rosamond.me,-14.3990,-120.7677
+9481,9,8,10,97.99,2022-06-04,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+8222,9,44,10,27.24,2022-06-06,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+7829,9,8,3,27.25,2022-06-09,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+5138,9,35,10,71.36,2022-06-12,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+2402,9,45,5,35.94,2022-06-25,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+4343,9,7,3,37.05,2022-06-27,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+9394,9,12,8,90.85,2022-07-01,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+3922,9,23,6,47.85,2022-07-05,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+1098,9,46,2,26.31,2022-07-11,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+2635,9,10,5,53.48,2022-07-15,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+3810,9,6,1,80.49,2022-07-16,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+8088,9,10,3,74.78,2022-07-17,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+3257,9,37,8,21.63,2022-07-19,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+9677,9,4,7,87.7,2022-07-24,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+9721,9,27,7,59.21,2022-07-28,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+1012,9,6,6,29.16,2022-07-28,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+3497,9,35,6,45.91,2022-08-05,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+3194,9,44,8,38.73,2022-08-08,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+4621,9,4,5,68.12,2022-08-11,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+5476,9,23,7,69.2,2022-08-12,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+4847,9,33,3,72.79,2022-08-30,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+6475,9,25,2,12.59,2022-09-04,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+2975,9,39,3,57.33,2022-09-04,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+4993,9,36,1,29.99,2022-09-06,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+9912,9,37,3,90.21,2022-09-07,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+8272,9,11,1,71.7,2022-09-10,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+8307,9,22,1,27.06,2022-09-11,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+7382,9,37,3,46.6,2022-09-11,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+1952,9,8,10,47.22,2022-09-11,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+8251,9,45,8,27.27,2022-09-14,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+9042,9,5,3,95.74,2022-09-16,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+1468,9,38,3,73.84,2022-09-18,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+5921,9,37,9,52.89,2022-09-22,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+5612,9,47,6,83.14,2022-09-23,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+8266,9,49,7,27.98,2022-09-25,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+7651,9,23,7,93.29,2022-09-27,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+8703,9,46,3,65.88,2022-09-28,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+3322,9,29,10,57.24,2022-09-28,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+4897,9,49,2,85.9,2022-10-05,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+5226,9,23,6,70.42,2022-10-12,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+7985,9,32,10,76.79,2022-10-14,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+9635,9,19,3,21.13,2022-10-17,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+9983,9,8,9,98.42,2022-10-21,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+2851,9,47,6,36.05,2022-10-27,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+7029,9,29,3,68.48,2022-10-28,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+8337,9,27,8,41.83,2022-11-04,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+9943,9,11,3,64.66,2022-11-07,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+9877,9,22,3,81.44,2022-11-15,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+3036,9,23,2,17.67,2022-11-23,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+9863,9,17,8,67.2,2022-11-24,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+9871,9,26,4,53.45,2022-11-28,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+5952,9,36,4,11.77,2022-12-01,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+4811,9,19,10,35.89,2022-12-06,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+6672,9,16,8,70.66,2022-12-07,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+2252,9,11,8,87.59,2022-12-11,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+2037,9,12,2,72.06,2022-12-13,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+1558,9,20,2,10.85,2022-12-21,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+3495,9,36,10,48.31,2022-12-26,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+5110,9,4,8,92.45,2022-12-27,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+9885,9,6,10,22.22,2023-01-01,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+2236,9,45,1,94.18,2023-01-04,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+3700,9,39,2,37.33,2023-01-13,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+7818,9,34,10,78.94,2023-01-17,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+3825,9,26,9,74.6,2023-01-18,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+2986,9,41,2,65.44,2023-01-21,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+5334,9,34,1,97.86,2023-01-26,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+1940,9,13,10,76.01,2023-01-29,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+6623,9,47,1,83.05,2023-02-01,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+5365,9,25,3,11.18,2023-02-06,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+3002,9,30,4,58.72,2023-02-07,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+4406,9,19,1,80.71,2023-02-08,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+5818,9,34,3,80.6,2023-02-09,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+6859,9,18,10,88.46,2023-02-11,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+8468,9,14,7,72.33,2023-02-15,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+9685,9,40,10,99.72,2023-02-19,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+5882,9,31,7,96.43,2023-02-21,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+6157,9,30,10,55.13,2023-02-27,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+3193,9,30,3,66.24,2023-03-05,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+5408,9,44,2,28.51,2023-03-13,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+8171,9,42,3,45.86,2023-03-20,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+6007,9,23,5,38.63,2023-03-20,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+8643,9,47,3,87.02,2023-03-22,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+1462,9,50,2,39.2,2023-03-24,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+2840,9,44,7,42.07,2023-03-26,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+3370,9,43,6,48.6,2023-03-30,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+7686,9,26,3,53.46,2023-03-31,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+4372,9,38,1,31.66,2023-03-31,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+1684,9,49,1,62.46,2023-04-02,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+4003,9,11,9,90.44,2023-04-06,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+8386,9,10,10,16.27,2023-04-08,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+3062,9,2,1,77.66,2023-04-10,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+1384,9,29,5,76.93,2023-04-12,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+1421,9,11,7,48.72,2023-04-21,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+7784,9,44,4,46.56,2023-04-22,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+5855,9,10,5,46.24,2023-04-30,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+5315,9,23,4,77.78,2023-05-04,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+9824,9,27,7,21.11,2023-05-12,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+4660,9,36,4,39.71,2023-05-13,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+5206,9,32,8,96.42,2023-05-15,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+7450,9,28,4,30.98,2023-05-16,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+5965,9,44,3,17.48,2023-05-28,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+3205,9,1,6,73.63,2023-05-31,Glenna Reichert,Delphine,Chaim_McDermott@dana.io,24.6463,-168.8889
+1084,10,17,6,32.93,2022-06-04,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+8304,10,24,5,48.25,2022-06-06,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+3289,10,49,6,17.8,2022-06-08,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+2681,10,24,3,48.75,2022-06-08,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+6320,10,43,8,44.96,2022-06-10,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+6360,10,11,3,67.08,2022-06-10,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+2472,10,13,10,42.2,2022-06-11,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+7341,10,28,8,88.8,2022-06-17,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+5062,10,35,7,58.42,2022-06-17,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+3720,10,48,7,84.4,2022-06-18,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+1493,10,16,4,29.64,2022-06-26,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+9652,10,24,10,72.25,2022-06-29,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+2266,10,43,5,39.12,2022-06-30,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+9050,10,11,3,55.17,2022-07-02,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+7603,10,14,6,61.78,2022-07-04,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+9922,10,19,6,51.9,2022-07-04,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+5706,10,50,7,85.33,2022-07-05,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+7553,10,50,10,32.08,2022-07-08,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+4172,10,46,1,53.49,2022-07-11,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+6003,10,43,5,49.27,2022-07-12,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+9798,10,14,10,60.36,2022-07-14,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+5654,10,39,1,12.74,2022-07-17,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+4388,10,32,6,76.36,2022-07-23,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+7446,10,29,3,36.79,2022-07-25,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+9520,10,37,8,44.14,2022-07-28,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+7696,10,37,1,51.72,2022-08-01,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+6110,10,47,6,44.57,2022-08-06,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+1935,10,15,5,43.04,2022-08-07,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+7567,10,35,8,79.39,2022-08-11,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+3319,10,31,4,80.46,2022-08-11,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+3439,10,27,7,15.31,2022-08-12,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+7139,10,12,3,18.0,2022-08-16,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+9237,10,21,4,97.81,2022-08-17,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+8662,10,49,1,20.55,2022-08-17,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+8959,10,5,8,83.56,2022-08-23,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+9362,10,24,4,57.38,2022-08-29,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+3472,10,24,10,53.63,2022-09-06,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+2360,10,15,6,18.38,2022-09-09,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+1011,10,23,6,71.55,2022-09-10,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+2272,10,26,5,65.53,2022-09-11,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+3270,10,1,2,47.43,2022-09-17,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+6540,10,44,8,15.61,2022-09-19,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+3188,10,24,7,20.37,2022-09-20,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+8572,10,28,1,10.1,2022-09-23,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+5181,10,11,6,76.89,2022-09-24,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+5736,10,15,4,98.86,2022-09-27,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+7023,10,16,8,91.87,2022-10-05,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+9458,10,29,9,71.42,2022-10-17,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+1306,10,45,2,51.79,2022-10-22,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+2667,10,5,9,57.11,2022-10-23,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+9856,10,6,1,22.46,2022-10-30,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+5438,10,26,9,90.85,2022-11-05,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+6270,10,36,5,96.07,2022-11-06,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+8170,10,27,2,39.99,2022-11-08,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+6104,10,49,4,23.96,2022-11-10,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+6231,10,15,4,89.32,2022-11-12,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+2744,10,24,1,24.73,2022-11-17,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+4190,10,32,7,24.46,2022-11-18,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+7106,10,12,5,87.79,2022-11-23,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+7896,10,45,10,75.79,2022-11-25,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+9841,10,23,5,35.88,2022-11-29,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+7507,10,27,10,94.11,2022-12-04,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+9013,10,20,5,33.87,2022-12-19,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+6383,10,18,5,42.77,2022-12-23,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+1977,10,12,9,40.19,2022-12-27,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+5738,10,46,4,50.34,2022-12-27,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+1151,10,37,9,43.6,2022-12-30,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+5922,10,26,7,56.3,2023-01-04,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+4837,10,11,9,74.71,2023-01-14,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+6504,10,43,6,31.56,2023-01-16,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+4970,10,14,10,75.2,2023-01-16,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+2380,10,43,4,32.88,2023-01-27,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+1842,10,39,2,30.59,2023-01-28,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+8982,10,1,9,92.83,2023-02-05,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+1257,10,21,4,83.76,2023-02-09,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+1664,10,29,8,30.38,2023-02-13,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+7845,10,42,4,84.74,2023-02-17,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+5031,10,21,1,46.9,2023-02-22,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+1394,10,2,9,22.89,2023-03-01,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+3756,10,48,7,69.15,2023-03-08,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+4590,10,29,4,75.83,2023-03-09,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+6576,10,29,3,48.4,2023-03-21,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+5405,10,20,5,53.29,2023-03-22,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+8590,10,7,5,50.07,2023-03-24,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+8261,10,36,5,92.04,2023-03-24,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+9464,10,15,6,45.41,2023-03-25,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+9450,10,34,7,27.41,2023-03-30,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+4234,10,14,10,71.44,2023-04-01,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+1515,10,43,8,19.63,2023-04-03,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+2032,10,10,1,71.2,2023-04-11,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+5696,10,21,1,51.39,2023-04-12,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+3306,10,47,2,21.25,2023-04-16,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+9758,10,21,3,47.73,2023-04-20,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+1901,10,43,10,91.06,2023-04-22,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+3015,10,3,5,52.37,2023-04-25,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+1786,10,22,7,24.5,2023-04-28,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+9897,10,3,9,22.76,2023-05-04,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+1073,10,37,5,92.83,2023-05-07,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+8371,10,31,4,44.49,2023-05-11,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+7154,10,15,6,85.65,2023-05-11,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+7191,10,24,9,35.04,2023-05-22,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+4032,10,1,2,18.63,2023-05-24,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+8483,10,8,5,96.52,2023-05-26,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+3793,10,11,8,87.67,2023-05-30,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+7515,10,19,5,72.73,2023-06-01,Clementina DuBuque,Moriah.Stanton,Rey.Padberg@karina.biz,-38.2386,57.2232
+4318,3,11,8,24.59,2022-06-07,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+1959,3,7,2,43.29,2022-06-23,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+4898,3,9,7,15.84,2022-06-28,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+8626,3,22,9,68.34,2022-06-29,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+9093,3,9,1,93.2,2022-06-30,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+8063,3,19,5,69.0,2022-06-30,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+4121,3,49,8,25.53,2022-06-30,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+5971,3,7,7,32.36,2022-06-30,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+3737,3,36,5,85.59,2022-07-08,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+1953,3,12,3,57.01,2022-07-12,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+9901,3,42,6,58.98,2022-07-13,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+8391,3,3,1,40.84,2022-07-18,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+5986,3,1,9,89.83,2022-07-19,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+2174,3,25,10,12.47,2022-07-19,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+4987,3,37,1,21.65,2022-07-20,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+8792,3,45,4,63.25,2022-07-25,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+6403,3,20,10,65.91,2022-08-01,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+1273,3,48,8,59.83,2022-08-03,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+7227,3,29,1,28.37,2022-08-04,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+5387,3,38,7,74.9,2022-08-06,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+3031,3,45,8,35.83,2022-08-08,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+6521,3,6,10,41.22,2022-08-10,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+2883,3,44,10,92.61,2022-08-25,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+2060,3,31,9,13.09,2022-09-01,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+6249,3,17,5,24.56,2022-09-01,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+1855,3,13,4,22.39,2022-09-07,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+6837,3,15,4,80.06,2022-09-12,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+7201,3,21,9,19.08,2022-09-13,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+9955,3,45,10,94.09,2022-09-25,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+7694,3,4,9,58.61,2022-09-25,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+7316,3,2,8,46.42,2022-09-26,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+9893,3,20,10,71.51,2022-09-29,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+9495,3,8,2,58.37,2022-10-04,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+2973,3,45,1,51.48,2022-10-06,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+5099,3,11,2,14.38,2022-10-09,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+5662,3,35,4,85.74,2022-10-23,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+5864,3,13,3,60.18,2022-10-26,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+3011,3,32,4,35.55,2022-10-26,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+5463,3,10,1,33.89,2022-10-27,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+2914,3,17,2,44.56,2022-10-31,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+8027,3,38,9,39.43,2022-11-02,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+1009,3,46,8,49.49,2022-11-04,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+5977,3,19,6,18.67,2022-11-15,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+8716,3,11,2,51.09,2022-11-16,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+5227,3,7,7,43.92,2022-11-18,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+3983,3,11,4,85.04,2022-11-25,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+1492,3,1,2,92.75,2022-11-29,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+1993,3,19,4,59.11,2022-12-03,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+4226,3,47,6,44.61,2022-12-04,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+8253,3,12,8,18.85,2022-12-05,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+2116,3,5,7,28.87,2022-12-07,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+2514,3,29,8,69.12,2022-12-09,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+8121,3,19,8,79.58,2022-12-13,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+7923,3,10,9,95.08,2022-12-19,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+6437,3,45,7,36.37,2022-12-21,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+8413,3,6,2,73.0,2022-12-24,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+2393,3,9,8,82.81,2022-12-25,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+9795,3,11,3,82.7,2022-12-27,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+1386,3,42,1,38.31,2023-01-07,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+7430,3,31,5,39.05,2023-01-07,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+4989,3,25,4,22.09,2023-01-20,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+1569,3,2,4,27.29,2023-01-23,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+9070,3,1,4,70.36,2023-01-23,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+6350,3,44,8,24.2,2023-01-28,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+4739,3,21,6,25.78,2023-01-29,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+9435,3,19,7,20.99,2023-02-09,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+2003,3,39,3,94.4,2023-02-15,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+3324,3,15,9,50.75,2023-02-17,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+2859,3,36,7,98.95,2023-02-20,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+5727,3,5,7,99.16,2023-03-05,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+6678,3,22,6,69.76,2023-03-14,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+1968,3,11,8,96.99,2023-03-20,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+3428,3,22,3,31.99,2023-03-24,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+7530,3,44,6,67.68,2023-03-24,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+9844,3,22,4,91.52,2023-03-28,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+6300,3,48,6,64.11,2023-04-09,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+7170,3,30,2,19.61,2023-04-13,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+1658,3,48,5,24.52,2023-04-15,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+3130,3,43,7,85.9,2023-04-21,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+2188,3,3,6,87.32,2023-04-22,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+7087,3,47,2,80.06,2023-04-23,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+6071,3,44,5,30.02,2023-04-24,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+3959,3,7,5,94.52,2023-04-25,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+2363,3,30,5,20.69,2023-04-28,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+4966,3,22,1,32.93,2023-05-02,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+7416,3,22,1,14.0,2023-05-16,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+7900,3,4,10,55.3,2023-05-17,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+1314,3,45,9,94.62,2023-05-17,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+9612,3,16,10,42.11,2023-05-22,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+4495,3,27,10,13.88,2023-05-29,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+2264,3,35,2,60.86,2023-05-30,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+6086,3,36,8,42.21,2023-05-30,Clementine Bauch,Samantha,Nathan@yesenia.net,-68.6102,-47.0653
+5788,6,39,4,76.75,2022-06-09,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+2335,6,23,8,33.63,2022-06-10,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+7928,6,47,7,19.11,2022-06-14,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+4162,6,13,7,57.12,2022-06-17,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+1747,6,10,9,34.54,2022-06-23,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+1625,6,19,7,44.66,2022-06-27,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+7484,6,27,7,73.8,2022-06-29,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+1960,6,13,1,90.53,2022-06-29,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+2701,6,4,8,47.64,2022-07-16,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+9386,6,28,7,71.63,2022-07-18,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+1439,6,17,5,26.48,2022-07-19,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+6225,6,15,1,98.59,2022-07-22,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+1776,6,1,5,92.7,2022-07-23,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+7967,6,34,10,14.44,2022-07-26,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+4005,6,39,6,43.55,2022-07-27,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+4858,6,50,6,29.5,2022-07-31,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+4587,6,7,4,49.79,2022-08-03,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+2422,6,9,6,15.26,2022-08-04,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+9036,6,23,7,91.73,2022-08-07,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+5894,6,21,7,89.17,2022-08-09,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+5389,6,8,4,92.49,2022-08-11,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+6579,6,45,5,57.4,2022-08-14,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+8997,6,24,3,42.28,2022-08-24,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+3413,6,37,2,55.42,2022-09-02,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+7398,6,28,7,40.22,2022-09-03,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+4843,6,21,5,56.16,2022-09-03,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+9486,6,14,9,67.52,2022-09-05,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+6586,6,29,9,54.49,2022-09-07,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+4585,6,24,3,95.86,2022-09-07,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+3649,6,32,4,15.14,2022-09-19,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+1623,6,27,1,96.85,2022-09-26,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+5710,6,33,10,21.43,2022-09-27,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+7064,6,33,5,68.88,2022-10-01,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+8570,6,41,10,13.12,2022-10-02,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+6458,6,15,10,96.48,2022-10-03,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+4462,6,46,1,95.86,2022-10-06,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+1129,6,37,8,97.86,2022-10-08,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+6858,6,32,5,73.85,2022-10-10,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+9359,6,1,5,33.53,2022-10-14,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+6824,6,15,5,85.66,2022-10-19,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+2299,6,44,4,31.51,2022-10-26,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+4753,6,13,8,44.2,2022-10-29,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+7971,6,11,9,82.94,2022-11-01,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+1881,6,45,9,25.37,2022-11-01,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+6648,6,47,4,41.7,2022-11-05,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+9160,6,40,4,25.98,2022-11-21,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+3445,6,44,6,85.29,2022-11-23,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+2172,6,5,8,32.57,2022-11-27,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+1762,6,3,7,81.1,2022-12-03,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+2664,6,10,6,96.99,2022-12-05,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+3013,6,16,1,98.99,2022-12-16,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+5518,6,21,6,84.06,2022-12-18,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+3987,6,4,6,44.27,2022-12-21,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+3627,6,49,4,35.26,2022-12-25,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+1338,6,49,5,39.71,2022-12-26,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+8883,6,30,10,37.9,2023-01-05,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+2991,6,25,7,71.18,2023-01-22,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+4783,6,11,5,71.55,2023-01-25,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+7346,6,34,1,56.78,2023-01-26,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+2340,6,22,5,27.94,2023-01-28,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+2872,6,26,10,47.37,2023-01-28,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+7875,6,6,9,22.58,2023-02-07,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+7194,6,46,7,91.99,2023-02-10,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+7181,6,1,3,20.48,2023-02-11,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+2810,6,24,10,91.91,2023-02-14,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+7538,6,18,7,34.05,2023-02-18,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+8886,6,48,9,43.14,2023-02-19,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+7313,6,32,6,52.85,2023-02-21,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+9985,6,2,10,24.47,2023-02-21,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+6643,6,34,5,16.68,2023-02-22,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+8078,6,34,3,56.94,2023-02-23,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+2794,6,8,6,36.03,2023-02-27,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+5906,6,15,10,59.53,2023-03-02,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+5861,6,2,2,24.36,2023-03-02,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+8308,6,16,1,61.38,2023-03-04,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+5225,6,28,4,69.92,2023-03-04,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+6160,6,4,5,37.72,2023-03-05,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+2626,6,12,9,51.36,2023-03-11,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+1645,6,13,8,66.47,2023-03-12,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+8282,6,25,2,34.14,2023-03-14,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+1357,6,18,10,44.32,2023-03-16,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+5461,6,11,4,96.2,2023-03-22,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+7232,6,31,1,47.4,2023-03-24,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+8902,6,47,7,76.91,2023-03-27,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+5458,6,6,4,35.18,2023-04-08,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+5595,6,29,6,66.72,2023-04-12,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+7902,6,44,10,55.25,2023-04-13,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+4272,6,49,10,39.29,2023-04-13,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+9182,6,38,6,18.15,2023-04-22,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+2300,6,16,1,80.31,2023-04-26,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+4790,6,44,1,28.52,2023-05-10,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+8376,6,23,7,63.02,2023-05-13,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
+2200,6,41,1,56.66,2023-05-20,Mrs. Dennis Schulist,Leopoldo_Corkery,Karley_Dach@jasper.info,-71.4197,71.7478
