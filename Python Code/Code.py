@@ -33,7 +33,8 @@ user_df = pd.DataFrame([
 if sales_data['customer_id'].isna().any() or user_df['customer_id'].isna().any():
     print("There are missing values in 'customer_id'. Please handle them before merging.")
 
-
+# Handle missing values in 'customer_id'
+user_df = user_df.dropna(subset=['customer_id'])
 
 # Convert 'customer_id' to int if necessary
 if sales_data['customer_id'].dtype != user_df['customer_id'].dtype:
@@ -47,6 +48,52 @@ merged_data = sales_data.merge(user_df, on='customer_id')
 
 # Save the merged data to a CSV file
 merged_data.to_csv('merged_data.csv', index=False)
+
+# Step 3: Data Transformation from OpenWeatherMap API
+
+'''1. Create a function to fetch weather data:'''
+
+def get_weather_data(lat, lng):
+    api_key = '4f43cd2e846d0b7f3047fc12e268c182'
+    url =  f'https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lng}&appid={api_key}'
+    response = requests.get(url)
+    weather_data = response.json()
+    return weather_data
+
+# print(get_weather_data(lat=44.34,lng=10.99))
+
+
+
+# Fetch weather data for each sale
+
+for index, row in merged_data.iterrows():
+    if 'lat' in row.index and 'lng' in row.index:
+        latitude = row['lat']
+        longitude = row['lng']
+
+        try:
+            # Fetch weather data using latitude and longitude
+            weather_data = get_weather_data(latitude, longitude)
+
+            # Extract relevant weather information
+            temperature = weather_data['main']['temp']
+            description = weather_data['weather'][0]['description']
+
+            # Add weather information to sales data
+            merged_data.loc[index, 'temperature'] = temperature
+            merged_data.loc[index, 'weather_description'] = description
+        except Exception as e:
+            print(f"Weather data unavailable for coordinates: {latitude},{longitude}")
+            print(e)
+    else:
+        print(f"Skipping weather data for row: {index}")
+
+# Save updated sales data with weather information
+
+print(merged_data.columns)
+
+merged_data.to_csv('merged_sales_data_with_weather.csv', index=False)
+
 
 #---------------------------------------------------------------------------------------------------------------------------
 
